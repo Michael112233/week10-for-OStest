@@ -1,5 +1,7 @@
 #include<cstdio>
 #include<iostream>
+#include<pthread.h>
+#include<atomic>
 
 using namespace std;
 
