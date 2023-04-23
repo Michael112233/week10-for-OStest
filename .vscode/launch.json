@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/michael/OSTest/week10",
+      "program": "/Users/michael/OSTest/week10/build/Debug/outDebug"
+    }
+  ]
+}
