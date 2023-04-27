@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/michael/test/week10-for-OStest",
-      "program": "/Users/michael/test/week10-for-OStest/build/Debug/outDebug"
+      "cwd": "/Users/michael/test/week10-for-OStest-1",
+      "program": "/Users/michael/test/week10-for-OStest-1/build/Debug/outDebug"
     }
   ]
 }
